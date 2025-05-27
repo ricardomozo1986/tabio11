@@ -1,1 +1,1 @@
-# tabio11
+Versión completa de la plataforma con módulo 0 de Información General, y ajustes a cumplimiento tributario.
